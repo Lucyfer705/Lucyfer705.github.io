@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persona profesion="sin trabajo">
+    <nombre>Lucia</nombre>
+    <sexo>mujer</sexo>
+    <fecha_de_nacimiento>
+        <dia>7</dia>
+        <mes>5</mes>
+        <year>2004</year>
+    </fecha_de_nacimiento>
+</persona>
