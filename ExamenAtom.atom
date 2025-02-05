@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="https://www.w3.org/2005/Atom">
+    <title>ABC de Sevilla</title>
+    <link href= "https://www.abc.es/">
+    <summary>Web del periódico nacional ABC</summary>
+    <entry>
+        <title>El último 'misil' de la guerra comercial entre EE.UU. y China</title>
+        <link href= "https://www.abc.es/internacional/ultimo-misil-guerra-comercial-eeuu-china-trump-20250205081014-nt.html">
+        <summary>El último 'misil' de la guerra comercial entre EE.UU. y China: Trump prohíbe los envíos de Shein y Temu</summary>
+        <updated>Miércoles, 05 Febrero 2025 12:48:00 +0100</updated>
+    </entry>
+    <entry>
+        <title>El nuevo giro al expansionismo de Trump</title>
+        <link href= "https://www.abc.es/internacional/groenlandia-riviera-franja-nuevo-giro-expansionismo-trump-20250205082513-nt.html">
+        <summary>El nuevo giro al expansionismo de Trump: de Groenlandia a la 'Riviera' de la franja de Gaza</summary>
+        <updated>Miércoles, 05 Febrero 2025 13:45:00 +0100</updated>
+    </entry>
+    <entry>
+        <title>Bruselas, contra el modelo Shein</title>
+        <link href= "https://www.abc.es/economia/comision-europea-presenta-medidas-protegerse-aluvion-paquetes-20250205130731-nt.html">
+        <summary>Bruselas, contra el modelo Shein: quiere que los paquetes importados de bajo valor también paguen aranceles</summary>
+        <updated>Miércoles, 05 Febrero 2025 13:51:00 +0100</updated>
+    </entry>
+    <entry>
+        <title>El 'hacker de la FP'</title>
+        <link href= "https://www.abc.es/espana/comunidad-valenciana/detenido-peligroso-hacker-alicante-ataco-otan-ejercito-20250205092755-vi.html">
+        <summary>Detenido un hacker de 18 años que atacó al Gobierno, la OTAN y al Ejército de EE.UU</summary>
+        <updated>Miércoles, 05 Febrero 2025 13:15:00 +0100</updated>
+    </entry>
+</feed>
